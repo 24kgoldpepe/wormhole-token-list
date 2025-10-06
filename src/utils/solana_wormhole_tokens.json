@@ -1,4 +1,11 @@
-{
+"GOLDPEPE": {
+  "symbol": "GOLDPEPE",
+  "name": "24K Gold Pepe",
+  "address": "FA532HAN5BVwNsKMxXxj8gBWQj8QL2p8x8zNn3Mipump",
+  "origin": "sol",
+  "sourceAddress": "FA532HAN5BVwNsKMxXxj8gBWQj8QL2p8x8zNn3Mipump",
+  "decimals": 6
+},
   "1INCH": {
     "symbol": "1INCH",
     "name": "1INCH Token (Wormhole)",
